@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Nir (0nks0) 👋
 
-<!--
-**0nks0/0nks0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Security engineer focused on threat detection & network forensics.**
 
-Here are some ideas to get you started:
+I build defender-focused tooling — from packet-capture analyzers to broader autonomous monitoring systems. My work leans on a *zero-noise philosophy*: surface real findings, not drown you in false positives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 🛡️ Always learning, always hardening. Everything here is for study, defense, and building better detection.
+
+---
+
+## 🔧 What I'm building
+
+- **[NKS0 PCAP Analyzer](https://github.com/0nks0/nks0-analyzer)** — drop a `.pcap` and get instant, severity-ranked security analysis (36 detection rules, client-side validated, fully static frontend).
+- A larger **autonomous monitoring platform** — an always-on, approval-gated detection layer that ties packet analysis, log aggregation, and alerting into one pipeline. NKS0 is one frontend component of that system.
+
+## 🧰 Core interests
+
+`Network forensics` · `Threat detection` · `Suricata / Sigma rules` · `Defender XDR / MDE` · `Intune / Entra ID` · `Homelab hardening` · `Tailscale VPN` · `Python automation`
+
+## 📫 Find me
+
+- ✉️ nirkacher@gmail.com
+- 💡 Open to collaborations, research, and security conversations.
+
+---
+
+⚠️ *Everything posted here is for studying and defensive purposes only — not for malicious use.*
